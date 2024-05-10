@@ -1,0 +1,37 @@
+/* xs */
+@media screen and (min-width:0px) and (max-width:600px) {
+  .container{
+    width: 100%;
+  }
+  
+    .baking-info{
+    width: 100%;
+  }
+
+  .location-info, .location-img {
+    width: 100%;
+    text-align: center;
+
+  }
+  
+}
+
+
+/* sm */
+@media screen and (min-width:601px) and (max-width:768px) {
+
+}
+
+/* md */
+@media screen and (min-width:769px) and (max-width:991px){
+
+}
+
+/* lg */
+@media screen and (min-width:992px) and (max-width:1200px){}
+/* xl */
+
+@media screen and (min-width:1201px) {
+   
+}
+/* xxl */
